@@ -1,0 +1,9 @@
+Building NeeCoin
+
+See doc/readme-qt.rst for instructions on building neecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NeeCoin.
+
+See doc/build-*.txt for instructions on building neecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of NeeCoin.
